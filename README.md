@@ -1,6 +1,7 @@
 This Fullstack Web Application uses Springboot to communicate with AWS, Postgres Images on Docker as a database, React for the frontend and Node.JS for the networking
 
 Setup:
+
 1> Setup the Docker Postgres Image and create a database within postgres
 The following:
 Composes a docker image from the docker-compose.yml file
